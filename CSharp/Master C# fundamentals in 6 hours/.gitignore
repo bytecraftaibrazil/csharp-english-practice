@@ -1,0 +1,15 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio settings
+.vs/
+*.user
+*.suo
+
+# Test results
+TestResults/
+
+# NuGet packages
+*.nupkg
+*.snupkg
